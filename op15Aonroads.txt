@@ -1,0 +1,279 @@
+Microsoft Windows [Version 10.0.17134.407]
+(c) 2018 Microsoft Corporation. All rights reserved.
+
+C:\Users\Akhil>cd "C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15"
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: I74exit5
+0       3.6036036036036037
+1       9.90990990990991
+2       23.423423423423422
+3       18.01801801801802
+ring CambridgeCity 4
+ring DryRidge 4
+ring Eaton 4
+ring Falmouth 4
+ring Fayetteville 4
+ring Germantown 4
+ring Glencoe 4
+ring Greensburg 3
+ring I275exit65 4
+ring I71-I75 3
+ring I75exit29 4
+ring Liberty 3
+ring Midland 4
+ring Monroe 4
+ring Oxford 3
+ring Shelbyville 4
+ring SouthLebanon 4
+ring Versailles 4
+ring Vevay 4
+ring Wilmington 4
+Cincinnati 71
+Miamitown 75
+Erlanger 76
+I74exit5 76
+Covington 79
+HiddenValley 80
+Newport 81
+I275-US127 82
+I275-US27 82
+I71-I275 83
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Dunreith
+0       3.6036036036036037
+1       8.108108108108109
+2       12.612612612612613
+3       9.00900900900901
+ring Aurora 4
+ring Columbus 4
+ring Fountaintown 2
+ring I74exit5 4
+ring IN3-IN46 3
+ring Madison 4
+ring NorthVernon 4
+ring Oxford 4
+ring Richmond 2
+ring WestHarrison 3
+Greensburg 25
+Rushville 26
+Versailles 27
+Brookville 28
+IN3-IN46 28
+Batesville 29
+Shelbyville 29
+Connersville 30
+NorthVernon 30
+WestHarrison 30
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Hanover
+0       3.6036036036036037
+1       9.00900900900901
+2       15.315315315315315
+3       9.00900900900901
+ring Batesville 4
+ring Frankfort 4
+ring I64-I265 3
+ring I64exit32 4
+ring I71-I75 4
+ring Lawrenceburg 4
+ring Newbern 4
+ring Owenton 4
+ring Rushville 4
+ring Shelbyville 4
+Bedford 33
+Madison 33
+Glencoe 34
+Versailles 34
+I71exit34 35
+Greensburg 36
+NorthVernon 37
+Owenton 37
+Eminence 38
+Hanover 39
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Fountaintown
+0       3.6036036036036037
+1       8.108108108108109
+2       12.612612612612613
+3       7.207207207207207
+ring CambridgeCity 3
+ring Columbus 3
+ring Greenfield 1
+ring I74exit5 4
+ring Madison 4
+ring NorthVernon 4
+ring Oxford 4
+ring Richmond 4
+Rushville 22
+Brookville 23
+Connersville 23
+Dunreith 24
+Greensburg 24
+CambridgeCity 25
+Shelbyville 25
+Liberty 26
+Versailles 26
+Fountaintown 27
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Russellville
+0       2.7027027027027026
+1       5.405405405405405
+2       9.90990990990991
+3       5.405405405405405
+ring Cincinnati 4
+ring Macon 1
+ring Maysville 2
+ring Midland 4
+ring Milford 4
+ring Wilmington 4
+Cincinnati 12
+Fayetteville 12
+Midland 12
+Milford 12
+I275exit63 13
+MtOrab 13
+Hillsboro 14
+I71-I275 14
+NewVienna 14
+Wilmington 14
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: US68-OH235
+0       3.6036036036036037
+1       9.00900900900901
+2       17.117117117117118
+3       8.108108108108109
+ring Eaton 4
+ring I70-I75 3
+ring I75-I675 4
+ring I75exit29 4
+ring I75exit38 4
+ring Leesburg 4
+ring SouthLebanon 4
+ring Waynesville 2
+ring Wilmington 3
+OH48-OH73 23
+Waynesville 23
+Xenia 24
+Centerville 25
+I75exit38 25
+Beavercreek 26
+Dayton 26
+I71exit45 26
+I75exit29 26
+Lebanon 26
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Eaton
+0       3.6036036036036037
+1       11.711711711711711
+2       25.225225225225227
+3       19.81981981981982
+ring Brookville 4
+ring CambridgeCity 3
+ring Connersville 4
+ring Covington 4
+ring Dayton 1
+ring I275exit63 4
+ring I71-I275 4
+ring I71exit50 4
+ring I71exit65 4
+ring I74exit5 4
+ring I75-I675 2
+ring I75exit32 4
+ring I75exit38 3
+ring Lebanon 4
+ring London 4
+ring Milford 4
+ring Newport 4
+ring Oxford 3
+ring SpringfieldS 4
+ring US68-OH235 4
+ring Waynesville 4
+ring Xenia 3
+Cincinnati 75
+Xenia 75
+I71-I275 76
+Dayton 77
+I75exit29 77
+I75-I275 78
+Eaton 79
+Hamilton 79
+Lebanon 79
+Wilmington 79
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Louisville
+0       1.8018018018018018
+1       4.504504504504505
+2       11.711711711711711
+3       5.405405405405405
+ring Columbus 3
+ring DryRidge 4
+ring I75exit118 4
+ring Madison 2
+ring NorthVernon 3
+ring Seymour 2
+Madison 14
+NorthVernon 14
+Bedford 16
+Seymour 16
+Columbus 17
+Scottsburg 17
+Versailles 17
+Glencoe 18
+Hanover 18
+Louisville 18
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Williamstown
+0       3.6036036036036037
+1       9.00900900900901
+2       17.117117117117118
+3       9.00900900900901
+ring Covington 4
+ring Flemingsburg 4
+ring HiddenValley 4
+ring I275exit65 3
+ring I64exit32 4
+ring I71exit34 4
+ring Morehead 4
+ring Newport 3
+ring Northfield 4
+ring Redoak 4
+Erlanger 31
+I275-US27 31
+Germantown 34
+Cynthiana 35
+Falmouth 35
+I71-I75 35
+Maysville 35
+Covington 37
+I275exit65 37
+Newport 37
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A roadneighbors.txt
+patient zero: Bedford
+0       2.7027027027027026
+1       5.405405405405405
+2       9.90990990990991
+3       3.6036036036036037
+ring Covington 4
+ring Frankfort 3
+ring HiddenValley 4
+ring Louisville 3
+Erlanger 11
+Glencoe 11
+I71-I75 11
+DryRidge 12
+I71exit34 12
+Owenton 12
+Covington 13
+Eminence 13
+Frankfort 13
+HiddenValley 13

@@ -1,0 +1,271 @@
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 572
+0       0.03
+1       0.05
+2       0.11
+3       0.08
+ring 141 4
+ring 4112 4
+ring 4305 4
+ring 6178 4
+ring 6331 4
+ring 7682 4
+ring 8671 4
+ring 9658 4
+9007 22
+2484 24
+5514 24
+5885 26
+3520 28
+7494 28
+141 30
+5797 30
+6331 30
+7078 30
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 3731
+0       0.03
+1       0.06
+2       0.12
+3       0.06
+ring 1217 4
+ring 2975 4
+ring 2978 4
+ring 3208 2
+ring 4388 4
+ring 9170 2
+3731 20
+4769 20
+5274 20
+8794 20
+1182 22
+3208 24
+3475 24
+9102 24
+9170 24
+1217 26
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 6290
+0       0.03
+1       0.08
+2       0.12
+3       0.08
+ring 3053 3
+ring 4174 4
+ring 5798 4
+ring 5925 4
+ring 6020 4
+ring 7130 4
+ring 8004 4
+ring 8772 4
+8791 21
+1578 23
+6568 23
+5226 25
+5798 29
+5925 29
+6020 29
+7130 29
+8004 29
+8772 29
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 150
+0       0.01
+1       0.03
+2       0.13
+3       0.18
+ring 150 0
+ring 1044 3
+ring 1069 3
+ring 1145 3
+ring 1156 3
+ring 2141 2
+ring 2361 3
+ring 3457 3
+ring 4005 3
+ring 5193 3
+ring 5317 3
+ring 5339 3
+ring 5767 2
+ring 6285 3
+ring 6358 3
+ring 6556 3
+ring 7544 3
+ring 8586 3
+2824 47
+150 49
+6210 53
+5280 57
+2141 61
+7852 61
+3085 63
+3736 63
+5767 63
+9826 63
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 8411
+0       0.02
+1       0.03
+2       0.08
+3       0.04
+ring 93 4
+ring 6954 4
+ring 7096 4
+ring 8485 4
+110 8
+140 8
+2236 10
+7096 10
+7552 10
+8485 10
+93 12
+2297 12
+5165 12
+5578 12
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 6750
+0       0.03
+1       0.05
+2       0.08
+3       0.07
+ring 431 4
+ring 1720 4
+ring 2759 4
+ring 4733 4
+ring 5605 4
+ring 5933 4
+ring 7538 4
+5577 13
+2604 16
+431 18
+2759 18
+4733 18
+5605 18
+7538 18
+9446 20
+5691 21
+8541 21
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 6638
+0       0.02
+1       0.07
+2       0.15
+3       0.07
+ring 1475 4
+ring 2622 4
+ring 3750 4
+ring 3814 3
+ring 6218 4
+ring 7388 4
+ring 9601 4
+8515 19
+5507 20
+2557 22
+4253 22
+5586 25
+7987 25
+8949 25
+1475 27
+5794 27
+6218 27
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 8757
+0       0.05
+1       0.14
+2       0.3
+3       0.32
+ring 50 4
+ring 571 4
+ring 579 4
+ring 725 4
+ring 850 4
+ring 1280 4
+ring 1857 4
+ring 2595 4
+ring 2638 4
+ring 3377 4
+ring 3503 4
+ring 3595 4
+ring 3627 4
+ring 4170 4
+ring 4227 4
+ring 4554 4
+ring 5014 4
+ring 5339 4
+ring 5615 4
+ring 6051 4
+ring 6079 4
+ring 7085 4
+ring 7462 4
+ring 7826 4
+ring 8036 4
+ring 8059 4
+ring 8325 4
+ring 8576 4
+ring 8606 4
+ring 8849 4
+ring 9420 4
+ring 9960 4
+8757 128
+2371 132
+1490 142
+9137 146
+5724 150
+4741 154
+8139 156
+9607 156
+4754 158
+5447 162
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 6146
+0       0.02
+1       0.03
+2       0.06
+3       0.05
+ring 1863 4
+ring 2266 3
+ring 3410 4
+ring 7894 3
+ring 9499 4
+5656 12
+2009 13
+8937 13
+5114 14
+3851 15
+3410 16
+9499 16
+2266 17
+7894 17
+1863 18
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A random10000-2.txt
+patient zero: 1727
+0       0.01
+1       0.03
+2       0.07
+3       0.06
+ring 3741 3
+ring 4157 3
+ring 4229 2
+ring 4923 3
+ring 5723 3
+ring 9396 2
+4229 12
+3147 14
+1727 16
+3741 16
+4923 16
+5723 16
+2756 18
+5241 18
+3123 22
+7629 22

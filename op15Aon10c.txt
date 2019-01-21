@@ -1,0 +1,739 @@
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 8755
+0       0.039996000399960006
+1       0.15998400159984003
+2       0.54994500549945
+3       1.0498950104989502
+ring 264 4
+ring 316 4
+ring 330 4
+ring 505 4
+ring 510 4
+ring 621 4
+ring 838 4
+ring 842 3
+ring 923 4
+ring 992 4
+ring 1184 4
+ring 1599 4
+ring 1612 4
+ring 1805 4
+ring 1809 4
+ring 1875 4
+ring 1886 4
+ring 1961 4
+ring 2027 4
+ring 2044 3
+ring 2054 4
+ring 2059 4
+ring 2078 4
+ring 2092 4
+ring 2182 4
+ring 2232 4
+ring 2266 4
+ring 2507 4
+ring 2540 4
+ring 2671 3
+ring 2700 4
+ring 2746 4
+ring 2970 4
+ring 3059 4
+ring 3182 4
+ring 3235 4
+ring 3338 4
+ring 3399 4
+ring 3400 4
+ring 3417 4
+ring 3617 4
+ring 3714 4
+ring 3727 4
+ring 3947 4
+ring 4114 4
+ring 4228 2
+ring 4270 4
+ring 4292 3
+ring 4423 4
+ring 4617 4
+ring 4684 4
+ring 4707 4
+ring 5059 4
+ring 5071 4
+ring 5257 4
+ring 5303 4
+ring 5324 4
+ring 5443 4
+ring 5486 4
+ring 5491 4
+ring 5594 4
+ring 5598 4
+ring 5685 4
+ring 5736 3
+ring 5824 4
+ring 5855 4
+ring 5869 4
+ring 6056 4
+ring 6123 4
+ring 6158 4
+ring 6193 4
+ring 6238 4
+ring 6471 4
+ring 6490 4
+ring 6698 3
+ring 6796 4
+ring 6823 3
+ring 6942 4
+ring 6963 4
+ring 6966 3
+ring 7194 3
+ring 7424 2
+ring 7433 4
+ring 7483 4
+ring 7652 4
+ring 8102 2
+ring 8121 4
+ring 8172 4
+ring 8338 4
+ring 8741 2
+ring 8752 4
+ring 8862 4
+ring 8974 4
+ring 9029 3
+ring 9039 3
+ring 9198 4
+ring 9288 4
+ring 9292 4
+ring 9442 4
+ring 9487 4
+ring 9519 4
+ring 9680 4
+ring 9700 4
+ring 9754 4
+ring 9904 4
+4303 356
+8755 401
+8102 426
+1491 427
+7391 435
+8700 437
+9475 441
+5286 444
+4228 447
+7201 474
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 3800
+0       0.029997000299970003
+1       0.10998900109989002
+2       0.22997700229977003
+3       0.32996700329967005
+ring 339 4
+ring 500 4
+ring 547 4
+ring 917 4
+ring 1093 4
+ring 2088 4
+ring 2252 4
+ring 3123 4
+ring 3528 4
+ring 4000 4
+ring 4243 4
+ring 4501 4
+ring 4640 4
+ring 5001 4
+ring 5118 3
+ring 5350 4
+ring 5450 2
+ring 5651 3
+ring 5879 3
+ring 5992 4
+ring 6206 3
+ring 6332 4
+ring 6506 3
+ring 6818 2
+ring 6968 4
+ring 7480 4
+ring 7844 2
+ring 8393 3
+ring 8856 4
+ring 9041 4
+ring 9317 4
+ring 9447 4
+ring 9724 4
+631 119
+3800 120
+6818 123
+3145 128
+1226 139
+8335 145
+5001 147
+564 148
+7844 149
+7644 150
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 2933
+0       0.019998000199980003
+1       0.06999300069993
+2       0.1999800019998
+3       0.40995900409959
+ring 54 3
+ring 78 4
+ring 487 2
+ring 801 4
+ring 973 3
+ring 1167 3
+ring 1235 3
+ring 1291 4
+ring 1385 4
+ring 1894 4
+ring 1913 3
+ring 2896 4
+ring 2954 4
+ring 3104 4
+ring 3823 4
+ring 4116 4
+ring 4585 2
+ring 4660 4
+ring 5063 4
+ring 5083 3
+ring 5285 4
+ring 5965 4
+ring 6127 3
+ring 6332 4
+ring 6381 3
+ring 6652 4
+ring 7199 4
+ring 7266 3
+ring 7299 4
+ring 7494 4
+ring 7535 4
+ring 7672 3
+ring 8088 4
+ring 8239 4
+ring 8469 4
+ring 8534 3
+ring 8657 4
+ring 8870 3
+ring 9077 4
+ring 9156 4
+ring 9796 3
+5724 130
+6918 145
+2933 147
+7743 155
+301 157
+8958 164
+487 169
+1260 169
+661 173
+8072 177
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 9278
+0       0.039996000399960006
+1       0.10998900109989002
+2       0.30996900309969005
+3       0.6199380061993801
+ring 68 4
+ring 135 4
+ring 271 4
+ring 296 3
+ring 392 4
+ring 420 3
+ring 566 4
+ring 755 4
+ring 885 4
+ring 1116 4
+ring 1198 4
+ring 1223 3
+ring 1244 4
+ring 1508 4
+ring 1689 4
+ring 1825 4
+ring 1896 3
+ring 2117 3
+ring 2238 3
+ring 3001 4
+ring 3222 4
+ring 3290 3
+ring 3403 3
+ring 3411 4
+ring 3511 3
+ring 3681 3
+ring 3845 3
+ring 3893 4
+ring 3941 4
+ring 3980 4
+ring 4015 4
+ring 4046 3
+ring 4229 4
+ring 4234 4
+ring 4306 4
+ring 4433 4
+ring 4774 4
+ring 5097 3
+ring 5444 4
+ring 5484 4
+ring 5636 3
+ring 6227 3
+ring 6709 4
+ring 6953 4
+ring 7082 2
+ring 7477 4
+ring 7494 3
+ring 7739 3
+ring 7769 4
+ring 7991 4
+ring 8128 3
+ring 8256 4
+ring 8275 3
+ring 8810 4
+ring 8892 4
+ring 9179 4
+ring 9411 4
+ring 9658 4
+ring 9750 4
+ring 9821 4
+ring 9941 4
+ring 9951 3
+2593 214
+9278 226
+3058 244
+7866 256
+1009 258
+5426 262
+3194 266
+227 268
+6648 272
+7582 285
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 146
+0       0.04999500049995
+1       0.10998900109989002
+2       0.22997700229977003
+3       0.35996400359964004
+ring 167 4
+ring 197 4
+ring 372 4
+ring 1115 4
+ring 1258 4
+ring 1839 3
+ring 1930 4
+ring 2063 4
+ring 2283 4
+ring 2527 4
+ring 2796 4
+ring 2949 4
+ring 3224 4
+ring 3517 3
+ring 4452 4
+ring 4590 4
+ring 4994 4
+ring 5049 4
+ring 5184 4
+ring 5652 4
+ring 5672 3
+ring 5852 3
+ring 5987 4
+ring 6389 4
+ring 7439 4
+ring 7514 4
+ring 7552 4
+ring 7584 4
+ring 7639 3
+ring 7842 4
+ring 7939 4
+ring 8616 4
+ring 8682 4
+ring 9393 4
+ring 9459 4
+ring 9889 3
+5164 134
+146 138
+5032 142
+5593 158
+9232 158
+7482 162
+1493 165
+7026 166
+9615 169
+8725 170
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 8904
+0       0.04999500049995
+1       0.12998700129987
+2       0.2999700029997
+3       0.42995700429957007
+ring 292 3
+ring 449 4
+ring 966 4
+ring 1033 4
+ring 1379 4
+ring 2041 4
+ring 2290 3
+ring 2341 4
+ring 2578 3
+ring 2595 4
+ring 2647 4
+ring 2813 4
+ring 3021 3
+ring 3156 4
+ring 3237 4
+ring 3280 4
+ring 3520 4
+ring 3839 4
+ring 3847 3
+ring 3848 4
+ring 3913 4
+ring 4058 4
+ring 4107 4
+ring 4279 4
+ring 4414 4
+ring 4465 4
+ring 4541 4
+ring 4755 4
+ring 4873 4
+ring 4937 4
+ring 4971 4
+ring 5203 4
+ring 6133 4
+ring 6399 4
+ring 6640 3
+ring 7359 3
+ring 8094 4
+ring 8281 4
+ring 8765 4
+ring 8874 4
+ring 9020 1
+ring 9314 4
+ring 9959 4
+3897 161
+8904 162
+9020 181
+1859 188
+1392 190
+4080 191
+8372 192
+2106 199
+2200 200
+6775 208
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 7314
+0       0.029997000299970003
+1       0.06999300069993
+2       0.1999800019998
+3       0.34996500349965004
+ring 91 4
+ring 449 4
+ring 571 4
+ring 795 4
+ring 923 4
+ring 1246 4
+ring 1807 4
+ring 1809 4
+ring 1988 4
+ring 2079 4
+ring 2232 4
+ring 2517 4
+ring 3347 4
+ring 3417 4
+ring 3795 4
+ring 4041 4
+ring 4101 4
+ring 4186 4
+ring 5630 4
+ring 5682 4
+ring 5685 4
+ring 5987 4
+ring 6137 3
+ring 6370 4
+ring 6378 4
+ring 6675 4
+ring 6942 4
+ring 7072 4
+ring 7528 3
+ring 8177 4
+ring 8407 4
+ring 8700 4
+ring 8708 4
+ring 8906 4
+ring 9855 4
+2741 137
+7314 138
+3293 139
+1707 140
+3329 154
+5687 154
+7937 159
+9558 166
+1485 167
+7528 167
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 3681
+0       0.039996000399960006
+1       0.1999800019998
+2       0.53994600539946
+3       0.9199080091990801
+ring 99 4
+ring 191 4
+ring 207 4
+ring 283 4
+ring 301 4
+ring 358 4
+ring 370 2
+ring 750 4
+ring 790 4
+ring 836 4
+ring 871 3
+ring 934 3
+ring 1041 3
+ring 1378 4
+ring 1403 4
+ring 1591 4
+ring 1735 4
+ring 1797 4
+ring 1843 4
+ring 1875 4
+ring 1890 2
+ring 1953 4
+ring 2031 4
+ring 2069 2
+ring 2173 4
+ring 2641 4
+ring 2839 4
+ring 2841 4
+ring 3194 4
+ring 3243 4
+ring 3260 4
+ring 3280 3
+ring 3339 4
+ring 3419 4
+ring 3495 4
+ring 3499 4
+ring 3506 4
+ring 3630 4
+ring 3684 4
+ring 4095 3
+ring 4161 4
+ring 4211 2
+ring 4223 3
+ring 4293 4
+ring 4503 4
+ring 4702 4
+ring 4840 4
+ring 5008 3
+ring 5047 4
+ring 5181 4
+ring 5196 3
+ring 5248 4
+ring 5405 4
+ring 5642 4
+ring 5780 3
+ring 5937 4
+ring 6005 3
+ring 6019 3
+ring 6105 4
+ring 6334 4
+ring 6542 3
+ring 6592 3
+ring 6638 4
+ring 6813 3
+ring 6897 4
+ring 6902 4
+ring 6931 4
+ring 7071 4
+ring 7169 4
+ring 7221 4
+ring 7415 4
+ring 7449 4
+ring 7462 4
+ring 7909 4
+ring 7911 4
+ring 7963 4
+ring 7967 3
+ring 8262 4
+ring 8280 4
+ring 8388 3
+ring 8675 4
+ring 8837 3
+ring 8953 4
+ring 9035 3
+ring 9275 4
+ring 9404 4
+ring 9473 4
+ring 9552 3
+ring 9652 4
+ring 9754 4
+ring 9867 4
+ring 9873 4
+3681 341
+4530 371
+7456 377
+8530 385
+9427 416
+8629 424
+2677 426
+7739 438
+881 449
+4211 449
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 4107
+0       0.04999500049995
+1       0.13998600139986
+2       0.41995800419958
+3       0.7499250074992501
+ring 70 4
+ring 254 2
+ring 396 4
+ring 449 4
+ring 513 4
+ring 604 4
+ring 608 4
+ring 952 4
+ring 988 4
+ring 1109 4
+ring 1392 2
+ring 1645 4
+ring 1747 4
+ring 1859 4
+ring 1984 4
+ring 2007 4
+ring 2050 4
+ring 2062 3
+ring 2141 4
+ring 2200 4
+ring 2338 4
+ring 2617 4
+ring 2909 3
+ring 3050 4
+ring 3136 3
+ring 3459 3
+ring 3509 3
+ring 3514 4
+ring 3579 3
+ring 3689 4
+ring 4084 4
+ring 4100 4
+ring 4241 3
+ring 4266 3
+ring 4353 3
+ring 4382 3
+ring 4429 4
+ring 4971 2
+ring 5080 2
+ring 5186 2
+ring 5328 3
+ring 5443 4
+ring 5454 4
+ring 5558 4
+ring 5765 4
+ring 5833 4
+ring 6103 3
+ring 6234 4
+ring 6283 3
+ring 6298 4
+ring 6431 4
+ring 6478 3
+ring 6520 4
+ring 7319 2
+ring 7338 4
+ring 7359 3
+ring 7364 4
+ring 7561 3
+ring 7757 4
+ring 8033 4
+ring 8210 3
+ring 8352 4
+ring 8353 4
+ring 8372 4
+ring 8664 3
+ring 8682 4
+ring 8904 4
+ring 8940 3
+ring 9095 3
+ring 9171 4
+ring 9212 4
+ring 9252 4
+ring 9333 4
+ring 9413 3
+ring 9927 4
+4107 267
+3865 286
+2811 296
+3868 324
+2341 330
+5812 330
+7736 330
+6060 334
+1392 340
+7412 341
+
+C:\Users\Akhil\Desktop\1 fall sem courses\network science\java programs\ns15>java NS15A NS10Cfile.txt
+patient zero: 381
+0       0.04999500049995
+1       0.11998800119988001
+2       0.30996900309969005
+3       0.45995400459954006
+ring 110 4
+ring 347 4
+ring 519 4
+ring 952 3
+ring 1005 3
+ring 1415 3
+ring 1463 4
+ring 1482 3
+ring 1747 3
+ring 1784 3
+ring 1987 4
+ring 2014 3
+ring 2138 4
+ring 2341 3
+ring 2641 4
+ring 2800 4
+ring 2855 4
+ring 3368 4
+ring 3659 4
+ring 3689 4
+ring 3766 4
+ring 3780 4
+ring 3796 2
+ring 3934 4
+ring 3985 4
+ring 4682 4
+ring 4976 4
+ring 5377 4
+ring 5385 3
+ring 5787 4
+ring 6161 4
+ring 6211 4
+ring 6232 4
+ring 6369 2
+ring 7005 3
+ring 7531 3
+ring 8359 3
+ring 8511 3
+ring 8620 4
+ring 8884 2
+ring 8943 2
+ring 8963 2
+ring 9015 3
+ring 9096 4
+ring 9756 4
+ring 9925 4
+381 160
+8240 164
+9814 184
+2007 187
+5820 191
+8943 194
+6565 200
+2439 202
+2597 202
+6369 214
+
